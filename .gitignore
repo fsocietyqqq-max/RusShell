@@ -1,0 +1,4 @@
+/ru
+*.o
+*.out
+/build/

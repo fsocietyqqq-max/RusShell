@@ -1,5 +1,7 @@
 # RusShell
 
+![RusShell logo](logo.jpg)
+
 Русскоязычная командная оболочка для Arch Linux, написанная на C++.
 
 ## Возможности
